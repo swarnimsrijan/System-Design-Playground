@@ -29,7 +29,7 @@
         - each API module helps in making an API for specific clients. 
         - one or more independent API modules.
 - Image
-![Architecture]()
+![Architecture](https://github.com/swarnimsrijan/System-Design-Playground/blob/main/Resources/apigatewayarchitecture.jpg)
 
 
 # Advantages
